@@ -1,0 +1,2 @@
+# Deep-Learning-Based-Brain-Tumor-Detection-Using-Convolutional-Neural-Networks
+This project uses Convolutional Neural Networks (CNNs) for brain tumor detection in MRI images. By leveraging transfer learning with the ResNet101v2 model, it classifies images as tumor or non-tumor. Data preprocessing techniques like histogram equalization and morphological opening, along with augmentation, enhance model accuracy and robustness.
